@@ -47,8 +47,22 @@ While DNNs are traditionally used for feature-based detection, this research hig
 * **Hybrid Analysis:** A comparative study establishing the groundwork for combining DNN and GNN architectures.
 * **Topology Awareness:** Utilizes graph-based learning to detect attacks based on node interactions rather than just isolated flow features.
 * **Stealth Detection:** Specialized capability to identify "Low-Rate DDoS" attacks that often bypass traditional filters.
+## 📦 Setup & Quickstart
+
+```bash
+# Clone the repository
+git clone https://github.com/Karthickruban/AI-Driven-Cybersecurity-Threat-Prediction-and-Prevention.git
+cd AI-Driven-Cybersecurity-Threat-Prediction-and-Prevention
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Launch JupyterLab to run the models
+jupyter lab
+```
 
 ---
+
 
 ## ❝ Citation
 If you use this code or our results in your research, please cite our paper:
